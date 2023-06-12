@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Diary</title>
+    <style>
+        body {
+            background-color: #f8f8f8;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .diary-entry {
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+            margin: 20px auto;
+            max-width: 600px;
+            padding: 20px;
+        }
+
+        .entry-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .entry-date {
+            color: #888888;
+            font-size: 12px;
+            margin-bottom: 20px;
+        }
+
+        .entry-content {
+            font-size: 16px;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="diary-entry">
+        <div class="entry-title">Dear Diary</div>
+        <div class="entry-date">June 11, 2023</div>
+        <div class="entry-content">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt sem in risus luctus, sed vestibulum tortor aliquam. Aenean lacinia ipsum eget nibh cursus, sit amet scelerisque velit posuere. Aliquam sed purus sed nulla efficitur posuere vitae nec lacus. Vivamus semper erat dui, eget facilisis sapien vestibulum sit amet. Quisque suscipit aliquet quam, sit amet fringilla nisl congue a. Morbi lobortis efficitur est, eu ultrices ex. Nam tristique sagittis dolor, eu viverra nunc. Morbi sit amet est nec dolor sollicitudin gravida. Pellentesque at eros vitae metus pretium maximus in ut elit. Nam pellentesque felis a nulla bibendum, at viverra ligula maximus.
+        </div>
+    </div>
+</body>
+</html>
