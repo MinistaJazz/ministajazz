@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @MinistaJazz
-- 👀 I’m interested in ... puppies, social equity, AI, coffee
-- 🌱 I’m currently learning ...coding
-- 💞️ I’m looking to collaborate on ...conversational AI and AI agent personas
-- 📫 How to reach me ...ministajazz@wearemuchdifferent.com
-- 😄 Pronouns: ...they/them
-- ⚡ Fun fact: ...I won a reality TV show guess doing what...
-
-<!---
-MinistaJazz/MinistaJazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm @MinistaJazz
+- 🔧 Founder & CTO of Much Different World — voice sovereignty infrastructure for the AI era
+- 🧠 Building consent-gated voice identity, personality provenance, and cooperative economics
+- 💻 Self-taught developer. Production systems deployed. Five provisional patents filed.
+- 💇🏾 20 years as a hairstylist — the oldest form of human technology. Federally copyrighted DIG Method.
+- 💞️ Looking to collaborate on conversational AI, voice ethics, and consent infrastructure
+- 📫 Reach me: hello@muchdifferentworld.com
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: Won Hair Battle Spectacular. Toured with Madonna. Now I build AI that asks permission first.
